@@ -1,5 +1,5 @@
 <html>
   <head>
-    <title>Welcome to the Web Page </title>
+    <title> Welcome to the Web Page </title>
   </head>
 </html>
