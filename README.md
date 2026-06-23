@@ -1,5 +1,9 @@
 <html>
   <head>
-    <title> Welcome to the Web Page </title>
+    
   </head>
+  <body>
+    <h1>Welcome to the web page</h1>
+    <p>Your content goes here.</p>
+  </body>
 </html>
