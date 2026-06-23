@@ -86,5 +86,17 @@ If my projects help you, consider:
 ## 📊 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+## ❤️ Why Support This Work?
+
+Your sponsorship helps me:
+
+- Build free open-source software
+- Fix bugs faster
+- Add requested features
+- Maintain infrastructure
+- Create tutorials and documentation
+
+Every contribution directly supports development.
   </body>
 </html>
