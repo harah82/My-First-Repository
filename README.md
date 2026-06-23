@@ -1,2 +1,5 @@
-Welcome to the Web Page 
-Hey Everyone ! 
+<html>
+  <head>
+    <title>Welcome to the Web Page </title>
+  </head>
+
