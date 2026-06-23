@@ -20,7 +20,6 @@ Building open-source tools that solve real-world problems.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Your Main Project**
 - 🌱 Learning: **AI, Cloud, DevOps**
 - 👯 Looking to collaborate on **Open Source**
 - 💡 Interested in **AI, Automation, Web Development**
