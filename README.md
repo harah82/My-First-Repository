@@ -23,7 +23,7 @@ Building open-source tools that solve real-world problems.
 - 🌱 Learning: **AI, Cloud, DevOps**
 - 👯 Looking to collaborate on **Open Source**
 - 💡 Interested in **AI, Automation, Web Development**
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **harshkumarsharma8097@gmail.com**
 
 ---
 
